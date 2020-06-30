@@ -21,6 +21,8 @@
 
 6.微信分享文案修改app/controllers/IndexController.php 第18行的$share数组。
 
+7.修改配置文件app/config/config.php  wexin配置，facePlusPlus配置。
+
 ## 安装使用
 
 体验地址：[graduation.nivin.cn](http://graduation.nivin.cn/)
@@ -30,10 +32,6 @@
 ```bash
 composer install
 ```
-
-修改配置文件app->config->config.php
-
-wexin配置，facePlusPlus配置
 
 [Nginx服务器配置参考](https://www.kancloud.cn/jaya1992/phalcon_doc_zh/753243#Nginx_46)
 
