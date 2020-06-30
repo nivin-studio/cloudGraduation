@@ -1,0 +1,18 @@
+[Wed, 17 Jun 20 19:29:15 +0800][DEBUG] Client error: `POST https://api-cn.faceplusplus.com/imagepp/v1/mergeface` resulted in a `400 Bad Request` response:
+{"request_id":"1592393355,b5f5851e-91c2-4df5-8e3b-dcb6e2bfbcc0","time_used":402,"error_message":"NO_FACE_FOUND: merge_ba (truncated...)
+
+[Wed, 17 Jun 20 19:30:16 +0800][DEBUG] Client error: `POST https://api-cn.faceplusplus.com/imagepp/v1/mergeface` resulted in a `413 Request Entity Too Large` response:
+<html>
+<head><title>413 Request Entity Too Large</title></head>
+<body bgcolor="white">
+<center><h1>413 Request Entity (truncated...)
+
+[Wed, 17 Jun 20 20:22:24 +0800][DEBUG] Client error: `POST https://api-cn.faceplusplus.com/imagepp/v1/mergeface` resulted in a `400 Bad Request` response:
+{"request_id":"1592396544,169b310a-3978-4531-826b-f187fc106a7a","time_used":271,"error_message":"NO_FACE_FOUND: merge_ba (truncated...)
+
+[Wed, 17 Jun 20 21:54:37 +0800][DEBUG] Client error: `POST https://api-cn.faceplusplus.com/imagepp/v1/mergeface` resulted in a `400 Bad Request` response:
+{"request_id":"1592402077,1ca04820-0713-409c-bfae-4b14a3390e20","time_used":317,"error_message":"NO_FACE_FOUND: merge_ba (truncated...)
+
+[Wed, 17 Jun 20 21:54:48 +0800][DEBUG] Client error: `POST https://api-cn.faceplusplus.com/imagepp/v1/mergeface` resulted in a `400 Bad Request` response:
+{"request_id":"1592402088,4331f4cf-43c9-4b62-9587-a9a3d862794e","time_used":168,"error_message":"NO_FACE_FOUND: merge_ba (truncated...)
+

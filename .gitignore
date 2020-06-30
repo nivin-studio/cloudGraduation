@@ -1,0 +1,7 @@
+vendor
+.vscode
+
+.env
+
+sftp-config.json
+composer.lock
