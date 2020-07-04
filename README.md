@@ -2,7 +2,8 @@
 
 	php: >=7.0
 	redis extension
-	phalcon extension
+        imagick extension
+	phalcon3.4.4 extension
 
 ## 素材要求和修改
 1.模特图片素材要求png格式背景透明；尺寸750 * 520；数量8到16张即可；大小100k左右；图片要清晰。替换路径public/images/boy1.png,girl1.png。代码修改：app/services/MergeFace.php 修改静态变量$models数组。
