@@ -2,7 +2,7 @@
 
 	php: >=7.0
 	redis extension
-        imagick extension
+	imagick extension
 	phalcon3.4.4 extension
 
 ## 素材要求和修改
